@@ -33,6 +33,7 @@ int main()
 }
 
 
+
 // int main()
 // {
 //     int n,m=0,flag=0;
@@ -52,5 +53,31 @@ int main()
 //     if(flag==0)
 //     {
 //         cout << "Prime No." << ": " << n << endl;
+//     }
+// }
+
+
+// Primalty Check 
+// int main()
+// {
+//     int n;
+//     cin >> n;
+
+//     int count = 0;
+
+//     for(int i=2; i<=n; i++)
+//     {
+//         if(n%i==0)
+//         {
+//             count++;
+//         }
+//     }
+//     if(count==1)
+//     {
+//         cout << "It's a Prime Number!";
+//     }
+//     else
+//     {
+//         cout << "Not a Prime Number!";
 //     }
 // }

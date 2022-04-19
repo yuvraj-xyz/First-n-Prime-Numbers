@@ -72,7 +72,7 @@ int main()
 //             count++;
 //         }
 //     }
-//     cout << "Factors = " << count+1 << endl;
+//     cout << "Factors = " << count+1 << endl;  // +1 is for 1 because 1 is a factor of ever number
     
 
 //     if(count==1)

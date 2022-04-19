@@ -72,9 +72,12 @@ int main()
 //             count++;
 //         }
 //     }
+//     cout << "Factors = " << count+1 << endl;
+    
+
 //     if(count==1)
 //     {
-//         cout << "It's a Prime Number!";
+//         cout << "It is a Prime Number!";
 //     }
 //     else
 //     {

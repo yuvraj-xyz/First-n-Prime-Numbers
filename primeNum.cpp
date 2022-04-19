@@ -34,7 +34,7 @@ int main()
 
 
 
-// int main()
+// int main()   (TC = O(n/2))
 // {
 //     int n,m=0,flag=0;
 //     cin >> n;

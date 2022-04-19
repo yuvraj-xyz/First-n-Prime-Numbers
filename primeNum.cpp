@@ -57,7 +57,7 @@ int main()
 // }
 
 
-// Primalty Check 
+// Primalty Check (TC = O(n))
 // int main()
 // {
 //     int n;
